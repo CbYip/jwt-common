@@ -1,6 +1,6 @@
 {
     "name": "carlyip/jwt-common",
-    "description": "Eaay to use JSON Web Token lib",
+    "description": "Easy to use JSON Web Token lib",
     "type": "library",
     "license": "MIT",
     "authors": [
