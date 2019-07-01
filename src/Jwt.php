@@ -4,6 +4,7 @@
  * Date: 19-7-1
  * Time: 下午2:35
  */
+namespace Jwt;
 
 class Jwt
 {

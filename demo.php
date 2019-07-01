@@ -4,8 +4,8 @@
  * Date: 19-7-1
  * Time: 下午2:46
  */
-require_once "src/Jwt.php";
-
+require_once "vendor/autoload.php";
+use Jwt\Jwt;
 
 $jwt = new Jwt([
     'user' => 'test',
