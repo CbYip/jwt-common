@@ -1,0 +1,15 @@
+{
+    "name": "carlyip/jwt-common",
+    "description": "Eaay to use JSON Web Token lib",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CbYip",
+            "email": "442629104@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    }
+}
